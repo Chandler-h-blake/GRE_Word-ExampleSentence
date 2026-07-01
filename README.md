@@ -51,12 +51,12 @@ WordList46.md
 
 ## 进度
 
-- [ ] Word List 01
-- [ ] Word List 02
-- [ ] Word List 03
+- [x] Word List 01
+- [x] Word List 02
+- [x] Word List 03
 - [x] Word List 04
-- [ ] Word List 05
-- [ ] Word List 06
+- [x] Word List 05
+- [x] Word List 06
 - [ ] Word List 07
 - [ ] Word List 08
 - [ ] Word List 09
