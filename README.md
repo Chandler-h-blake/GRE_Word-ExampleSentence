@@ -1,4 +1,6 @@
-# GRE Vocabulary Notes
+# README.md
+
+## GRE Vocabulary Notes
 
 这是一个个人 GRE 词汇复习笔记仓库，用来整理备考过程中遇到的重点词汇，并为每个单词补充自行编写的英文例句。
 

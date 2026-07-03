@@ -1,3 +1,5 @@
+# WordList1.md
+
 <table>
 <tbody>
 <tr><td>malodorous</td><td>The malodorous alley made pedestrians quicken their pace.</td></tr>
@@ -130,5 +132,27 @@
 <tr><td>scholarly</td><td>The article appeared in a respected scholarly journal.</td></tr>
 <tr><td>spiteful</td><td>The spiteful comment damaged their friendship.</td></tr>
 <tr><td>ministration</td><td>The refugees depended on the ministration of local volunteers.</td></tr>
+<tr><td>apprehend</td><td>The police moved quickly to apprehend the suspect.</td></tr>
+<tr><td>hindsight</td><td>With hindsight, the warning signs seemed obvious.</td></tr>
+<tr><td>multitudinous</td><td>The multitudinous details made the report hard to summarize.</td></tr>
+<tr><td>braggadocio</td><td>His braggadocio vanished when the real work began.</td></tr>
+<tr><td>demonize</td><td>The campaign tried to demonize every political opponent.</td></tr>
+<tr><td>pedagogue</td><td>The old pedagogue believed discipline was essential to learning.</td></tr>
+<tr><td>canned</td><td>Her canned response failed to address the actual complaint.</td></tr>
+<tr><td>maladroit</td><td>His maladroit apology only made the insult worse.</td></tr>
+<tr><td>alluvial</td><td>The river left rich alluvial soil across the plain.</td></tr>
+<tr><td>detritus</td><td>After the flood, detritus covered the streets.</td></tr>
+<tr><td>disgorge</td><td>The volcano began to disgorge ash into the sky.</td></tr>
+<tr><td>detached</td><td>The judge maintained a detached attitude throughout the trial.</td></tr>
+<tr><td>migratory</td><td>Migratory birds return to the wetlands every spring.</td></tr>
+<tr><td>seditious</td><td>The pamphlet was condemned as seditious by the regime.</td></tr>
+<tr><td>magnify</td><td>The microscope can magnify the specimen hundreds of times.</td></tr>
+<tr><td>germane</td><td>Only evidence germane to the case will be admitted.</td></tr>
+<tr><td>rehash</td><td>The sequel merely rehashes the plot of the first film.</td></tr>
+<tr><td>antelope</td><td>An antelope bounded across the dry grassland.</td></tr>
+<tr><td>bemoan</td><td>Teachers often bemoan the loss of reading time.</td></tr>
+<tr><td>shelve</td><td>The committee decided to shelve the proposal until next year.</td></tr>
+<tr><td>prodigy</td><td>The chess prodigy defeated players twice her age.</td></tr>
+<tr><td>kinetic</td><td>The sculpture has a kinetic energy that makes it feel alive.</td></tr>
 </tbody>
 </table>

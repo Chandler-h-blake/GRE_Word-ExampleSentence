@@ -1,3 +1,5 @@
+# WordList4.md
+
 <table>
 <tbody>
 <tr><td>arduous</td><td>The arduous hike tested everyone's patience and stamina.</td></tr>
@@ -103,5 +105,25 @@
 <tr><td>chronicle</td><td>The diary will chronicle her journey across Asia.</td></tr>
 <tr><td>mammalian</td><td>Whales have many mammalian traits despite living in water.</td></tr>
 <tr><td>unexampled</td><td>The crisis required unexampled cooperation among rivals.</td></tr>
+<tr><td>molder</td><td>The abandoned books began to molder in the damp basement.</td></tr>
+<tr><td>phenomenon</td><td>The aurora is a natural phenomenon caused by solar particles.</td></tr>
+<tr><td>unnerve</td><td>The sudden silence seemed to unnerve the speaker.</td></tr>
+<tr><td>cetacean</td><td>The whale is a large marine cetacean.</td></tr>
+<tr><td>melodramatic</td><td>His melodramatic reaction made the problem seem larger than it was.</td></tr>
+<tr><td>respire</td><td>Plants respire as well as photosynthesize.</td></tr>
+<tr><td>annals</td><td>The battle is famous in the annals of military history.</td></tr>
+<tr><td>debut</td><td>The young violinist made her debut at Carnegie Hall.</td></tr>
+<tr><td>emblem</td><td>The olive branch is often used as an emblem of peace.</td></tr>
+<tr><td>incivility</td><td>The debate was marred by incivility and shouting.</td></tr>
+<tr><td>banality</td><td>The essay never rose above familiar banality.</td></tr>
+<tr><td>meteoric</td><td>Her meteoric rise surprised even her supporters.</td></tr>
+<tr><td>collegiality</td><td>The department's collegiality made collaboration easy.</td></tr>
+<tr><td>nominee</td><td>The nominee answered questions from the committee.</td></tr>
+<tr><td>sentimental</td><td>The film was sentimental without becoming dishonest.</td></tr>
+<tr><td>endeavor</td><td>The expedition was a bold scientific endeavor.</td></tr>
+<tr><td>degrade</td><td>Pollution can degrade the quality of the river.</td></tr>
+<tr><td>molecule</td><td>A water molecule contains two hydrogen atoms and one oxygen atom.</td></tr>
+<tr><td>topography</td><td>The map shows the region's rugged topography.</td></tr>
+<tr><td>litigant</td><td>Each litigant presented evidence to the court.</td></tr>
 </tbody>
 </table>

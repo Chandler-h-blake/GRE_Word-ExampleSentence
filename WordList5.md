@@ -1,3 +1,5 @@
+# WordList5.md
+
 <table>
 <tbody>
 <tr><td>sequential</td><td>The instructions must be followed in sequential order.</td></tr>
@@ -130,5 +132,26 @@
 <tr><td>antithetical</td><td>The policy is antithetical to the university's stated values.</td></tr>
 <tr><td>intrepid</td><td>The intrepid journalist entered the war zone despite the danger.</td></tr>
 <tr><td>obfuscate</td><td>The spokesperson used technical jargon to obfuscate the issue.</td></tr>
+<tr><td>extinct</td><td>The species became extinct after its habitat disappeared.</td></tr>
+<tr><td>augment</td><td>The grant will augment the museum's research budget.</td></tr>
+<tr><td>inhibit</td><td>Fear can inhibit creative thinking.</td></tr>
+<tr><td>avid</td><td>She is an avid reader of historical fiction.</td></tr>
+<tr><td>fervent</td><td>The proposal won fervent support from local activists.</td></tr>
+<tr><td>nostalgia</td><td>The old photograph filled him with nostalgia.</td></tr>
+<tr><td>pseudonym</td><td>The novelist published her early work under a pseudonym.</td></tr>
+<tr><td>apprehensive</td><td>Investors remained apprehensive about the volatile market.</td></tr>
+<tr><td>seminal</td><td>The paper was a seminal contribution to modern biology.</td></tr>
+<tr><td>truculent</td><td>The truculent customer refused every compromise.</td></tr>
+<tr><td>abstract</td><td>The lecture moved from concrete examples to abstract principles.</td></tr>
+<tr><td>contradict</td><td>The new evidence appears to contradict his testimony.</td></tr>
+<tr><td>summary</td><td>The report begins with a concise summary of the findings.</td></tr>
+<tr><td>contemporary</td><td>The museum focuses on contemporary art.</td></tr>
+<tr><td>pragmatic</td><td>The mayor offered a pragmatic solution to the budget problem.</td></tr>
+<tr><td>speculate</td><td>Analysts continue to speculate about the merger.</td></tr>
+<tr><td>banal</td><td>The speech was full of banal observations.</td></tr>
+<tr><td>forestall</td><td>Early action may forestall a larger crisis.</td></tr>
+<tr><td>inimical</td><td>The policy is inimical to long-term growth.</td></tr>
+<tr><td>exacting</td><td>The exacting teacher accepted only carefully revised essays.</td></tr>
+<tr><td>aridity</td><td>The region's aridity limits the crops farmers can grow.</td></tr>
 </tbody>
 </table>
