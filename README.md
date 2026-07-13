@@ -59,10 +59,10 @@ WordList46.md
 - [x] Word List 04
 - [x] Word List 05
 - [x] Word List 06
-- [ ] Word List 07
-- [ ] Word List 08
-- [ ] Word List 09
-- [ ] Word List 10
+- [x] Word List 07
+- [x] Word List 08
+- [x] Word List 09
+- [x] Word List 10
 - [ ] Word List 11
 - [ ] Word List 12
 - [ ] Word List 13
